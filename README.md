@@ -12,7 +12,7 @@ NowUpdaterCall.exe
 UpdaterCallupdate.ini
 
 [Point Program]
-0.5.0.4
+0.5.0.5
 NowWaitingPoint.exe
 Pointupdate.ini
 
