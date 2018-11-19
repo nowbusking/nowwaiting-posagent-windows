@@ -9,5 +9,7 @@ POS Agent distribution
 
 [Point Updater Program]
 
+[Order Updater Program]
+
 [Common]
 
